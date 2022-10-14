@@ -1,5 +1,5 @@
 Welcome to github_docs_test's documentation!
-======================================
+============================================
 
 .. toctree::
    :maxdepth: 2
@@ -8,7 +8,6 @@ Welcome to github_docs_test's documentation!
    readme
    installation
    usage
-   modules
    contributing
    authors
    history
